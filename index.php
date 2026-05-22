@@ -6,7 +6,16 @@ include 'src/header.php';
     <main id="main" class="flex-shrink-0" role="main">
     <h1 class="mt-5">Макияж в мурино</h1>
     </main>
-    <img src="img/1.png" alt="фото" width="263" height="320">
-    <h6>Готовый образ макияж и прическа</h6>
-    <h4>8000.00 ₽ </h4>
+    <img src="img/1.png" alt="фото1" width="480" height="480">
+    <h6>Макияж и создание причёски</h6>
+    <h4>7 500 ₽</h4>
+    <img src="img/2.png" alt="фото2" width="480" height="480">
+    <h6>Свадебный образ (макияж +прическа)</h6>
+    <h4>8 000 ₽</h4>
+    <img src="img/3.png" alt="фото3" width="480" height="480">
+    <h6>Репетиция свадебного образа</h6>
+    <h4>7 500 ₽</h4>
+    <img src="img/4.png" alt="фото3" width="480" height="480">
+    <h6>Макияж (любая сложность)</h6>
+    <h4>4 500 ₽</h4>
 <?php include 'src/footer.php'?>
